@@ -1,2 +1,2 @@
-# Polish-Stores-Chain - Tokenization-Analysis
+# Tokenization-Analysis
 Polish Stores Chain - Tokenization Analysis
