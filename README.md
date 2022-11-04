@@ -22,6 +22,7 @@ Once the data is cleaned and standarized, product description text is tokenized 
   title="Matrix Correlation"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
   
+  
 In order to find the product features that lead costumer to choose a product, it is necessary to calculate correlation between the 20 main tokens and the quantity of sales.
   
   
