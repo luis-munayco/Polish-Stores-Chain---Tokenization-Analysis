@@ -24,6 +24,7 @@ Once the data is cleaned and standarized, product description text is tokenized 
   
 In order to find the product features that lead costumer to choose a product, it is necessary to calculate correlation between the 20 main tokens and the quantity of sales.
   
+  
   <img
   src="/Images/Correlation Sales Beer.JPG"
   alt="Correlation Sales Beer"
